@@ -30,3 +30,9 @@ nav a {
   color: #007bff;
   font-size: 18px;
 }
+
+nav a:hover {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+}
